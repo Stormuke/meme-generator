@@ -1,0 +1,13 @@
+.generator__button {
+    border: none;
+    background-color: #1a1a1a;
+    color: rgba(255, 255, 255, 0.75);
+    padding: 10px 40px;
+    border-radius: 3px;
+    transition: background-color 0.5s linear;
+    cursor: pointer;
+}
+
+.generator__button:hover {
+    background-color: #696969;
+}
