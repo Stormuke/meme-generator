@@ -2,7 +2,7 @@
   "name": "meme-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Stormuke/meme-generator",
+  "homepage": "https://stormuke.github.io/meme-generator/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Stormuke/meme-generator.git"
